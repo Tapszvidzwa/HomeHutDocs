@@ -152,7 +152,7 @@ The Licensed Application is not tailored to comply with industry-specific regula
 
   
 
-You acknowledge that Licensor will be able to access and adjust Your downloaded Licensed Application content and Your personal information, and that Licensor's use of such material and information is subject to Your legal agreements with Licensor and Licensor's privacy policy: [https://github.com/Tapszvidzwa/shop/blob/master/privacy\_policy.html](https://github.com/Tapszvidzwa/shop/blob/master/privacy_policy.html).
+You acknowledge that Licensor will be able to access and adjust Your downloaded Licensed Application content and Your personal information, and that Licensor's use of such material and information is subject to Your legal agreements with Licensor and Licensor's privacy policy: [Privacy Policy](https://github.com/Tapszvidzwa/HomeHutDocs/edit/master/terms_and_conditions.md).
 
   
 
